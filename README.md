@@ -9,15 +9,22 @@ Hope this help for you.
 Code snippet:
 import * as pallete from './colorPallete.js';
 
+
 pallete.setMinNumber(0);
+
 pallete.setMaxNumber(255);
+
 
 /* set range */
 pallete.setStartColor("2fffff");
+
 pallete.setEndColor("3fffff");
 
+
 let color = pallete.colorAt(50);
+
 console.log (color); // get color you want
+
 
 Best
 Bojan Stojanovic
