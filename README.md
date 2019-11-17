@@ -25,7 +25,4 @@ let color = pallete.colorAt(50);
 
 console.log (color); // get color you want
 
-
-Best
-Bojan Stojanovic
-Nis, Serbia
+If some is missed, feel free to contact me!.
